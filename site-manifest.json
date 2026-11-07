@@ -1,0 +1,177 @@
+{
+  "schema": 1,
+  "site": "g2",
+  "source_commit": "f0432f4bfc19da7573d64b267ee13b13343bc1f8",
+  "excluded": [
+    ".git",
+    "woff-test",
+    "bridge-probe.html",
+    "status",
+    "README.md",
+    "company_dashboard_graph.html",
+    "line-kanri",
+    "customer-triage"
+  ],
+  "files": [
+    {
+      "path": ".nojekyll",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "card-pay.html",
+      "size": 26178,
+      "sha256": "6e2725fd919fc23f2cd143bf1c58a7829baebeacdb8e1286f584c41dcd3c0c80"
+    },
+    {
+      "path": "cases.html",
+      "size": 28690,
+      "sha256": "b916ca4894eddd96968bd54acf3a5e93f60475ed3dd5705590f4ca563052e62c"
+    },
+    {
+      "path": "company_dashboard.html",
+      "size": 90533,
+      "sha256": "24a2cae91e28ee5633b20f505391af512af7b54a49bce9e1176a59759f5f3e60"
+    },
+    {
+      "path": "dashboard-analytics-core.js",
+      "size": 10078,
+      "sha256": "c68a002d90a645b4d5dd79366778c44e9f7c37393c0a377dd43d0c0ba1d1f11b"
+    },
+    {
+      "path": "dashboard-analytics.css",
+      "size": 7447,
+      "sha256": "3b8149eb57ee9beacbf9884daccc2748b232a5b9ab2721247f8825b85bae9b39"
+    },
+    {
+      "path": "dashboard-analytics.js",
+      "size": 46791,
+      "sha256": "874faa3069b10985ce498e19c87606358dac554338c20435cd5354baa4893895"
+    },
+    {
+      "path": "dashboard-group-analytics.js",
+      "size": 25821,
+      "sha256": "b83ca21a17edcc38cd55650525b3446c721432dba1ebe9039c896e8b2b9b7cec"
+    },
+    {
+      "path": "docs.html",
+      "size": 4667,
+      "sha256": "bb8dc6ad5caae0410e5d4bbcde34d79b1644955ef956dc3d9ff117e27a9c56ab"
+    },
+    {
+      "path": "estimate.html",
+      "size": 241636,
+      "sha256": "c6cf015911446d5e6abab9fa6c793005a3bc6f01a88da1f33cce6efe7d538d02"
+    },
+    {
+      "path": "expense.html",
+      "size": 62161,
+      "sha256": "b7e412d77761297cc2a58f87074f1a9f45e1df359f119a12ef02cfb45fed0859"
+    },
+    {
+      "path": "form-direct-read.js",
+      "size": 2224,
+      "sha256": "d16765f6a3984742a5c20974a3f9e39098b0abad35655a55eeaf7333badae5ac"
+    },
+    {
+      "path": "go.html",
+      "size": 995,
+      "sha256": "c00e9147e68520522e007d56414604d74f3da1b0222823d06d7c547f2f5b2784"
+    },
+    {
+      "path": "index.html",
+      "size": 157339,
+      "sha256": "f551ef62b3bb96d77661513a54318020e9e20a62062cacfcf25e6ac6b56d77e9"
+    },
+    {
+      "path": "invoice.html",
+      "size": 72638,
+      "sha256": "5c3d3eae8795c63d52d30a2ce04f0485fbcc07bbcfabed56294fbcef038226e2"
+    },
+    {
+      "path": "login.html",
+      "size": 22269,
+      "sha256": "88189beb02e019ac9f702590b185c4e45ee7247161ef41aad2954d7e48483f1e"
+    },
+    {
+      "path": "portal.html",
+      "size": 52235,
+      "sha256": "2222d5c8a14b64cb3a1353c590b3750726c962378307dbba55e3f79f38517e3b"
+    },
+    {
+      "path": "privacy.html",
+      "size": 5985,
+      "sha256": "bcc912bac2e6fbc905ab19f680582d85a1bc10cee9254993aea9bade4a453c0c"
+    },
+    {
+      "path": "quote.html",
+      "size": 64143,
+      "sha256": "fb436a51c39cd4fb0db34ce36153cb035fd8289bdc2db9b80072ea7c208fb948"
+    },
+    {
+      "path": "receipt.html",
+      "size": 45513,
+      "sha256": "8300dda6ed395cba94e3fa2f36ca4da7f732a55bc84a0c9a4d8c16b4d0b3a955"
+    },
+    {
+      "path": "resend.html",
+      "size": 29730,
+      "sha256": "cb97fb907d36b10fdf4025307e1b45303f0cc1db1bfe237656c07cf0e3e6b103"
+    },
+    {
+      "path": "reserve.html",
+      "size": 16856,
+      "sha256": "10b53111f2c38efbf07a132db54873625f316a87dc046aeeea42dff497251907"
+    },
+    {
+      "path": "reward.html",
+      "size": 52872,
+      "sha256": "c179bfa7723581090b50656d1ec07fb55d7c1b40135d56fc48716e1539f466e2"
+    },
+    {
+      "path": "shared-auth.js",
+      "size": 10680,
+      "sha256": "2912c0bdf17778b6cf0f611bdd0425d885b5470871905066b5e83571384fa737"
+    },
+    {
+      "path": "shared-consent-photo.js",
+      "size": 2970,
+      "sha256": "f59683ac40a62935b0b445f55dc310223c8f26177c709fa6b5b98c92ccedce9d"
+    },
+    {
+      "path": "shared-customer-tax.js",
+      "size": 7528,
+      "sha256": "0126a2c1b6b71e930b51d8693f71f2c087eb20a2e5b7390e93330862e45c6c35"
+    },
+    {
+      "path": "shared-email-check.js",
+      "size": 16618,
+      "sha256": "4eb4749bcd876e21190cbf9712d74c90af845be4291bcf8a9a8d26110aa2d3a8"
+    },
+    {
+      "path": "shared-gas-call.js",
+      "size": 27070,
+      "sha256": "e6b40dbcc09bc09b8cd730ffe6a113249e8e38ca63f6c644c92465865d80a98d"
+    },
+    {
+      "path": "shared-nav.js",
+      "size": 18905,
+      "sha256": "a31293875c5117e050dd7a52cc5db3419a201ecf804f6838ab4cc662af6bd525"
+    },
+    {
+      "path": "shared-screen-latency.js",
+      "size": 11446,
+      "sha256": "931e2c7f97237546c45e81edb567ebb6a2c7633f417bd14962f1314066b0d963"
+    },
+    {
+      "path": "shared-site-config.js",
+      "size": 5782,
+      "sha256": "48b87cc541f6474c77b84f1fcc7db9077abe17ff4431536ce7b3eb141869d29c"
+    },
+    {
+      "path": "write-async-status.js",
+      "size": 6820,
+      "sha256": "36a0090a9b08a4ba314a6f1f346fb8f78572faec6e4514beb1aa4423c0435286"
+    }
+  ]
+}
