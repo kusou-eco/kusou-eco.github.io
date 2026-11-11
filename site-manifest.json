@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "site": "g2",
+  "site": "kusou",
   "source_commit": "3739985c3744b0973fb702e5016f01f46df8f71a",
   "excluded": [
     ".git",
@@ -165,8 +165,8 @@
     },
     {
       "path": "shared-site-config.js",
-      "size": 7161,
-      "sha256": "51defe170248830d5ca927be723a13b078d0096d4be0f98e771b5a8fa1fa514f"
+      "size": 7164,
+      "sha256": "9aced71856c3c30fdb17f82ca8071966a29b1765fb817fc46d90dff80e905722"
     },
     {
       "path": "write-async-status.js",
