@@ -1,4 +1,4 @@
-window.ECOPITA_SITE = {"group":"kusou","baseUrl":"https://kusou-eco.github.io"};
+window.ECOPITA_SITE = {"group":"g2","baseUrl":"https://kusou-eco.github.io"};
 
 // Site identity is a display hint; the server independently authorizes every group read.
 (function(root) {
